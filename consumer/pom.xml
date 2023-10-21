@@ -18,5 +18,11 @@
             <artifactId>contract</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>mycompany</groupId>
+            <artifactId>provider</artifactId>
+            <version>${project.version}</version>
+            <scope>runtime</scope>
+        </dependency>
     </dependencies>
 </project>

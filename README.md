@@ -22,7 +22,7 @@ Output:
 unable to load service provider
 ```
 
-full [log](https://gist.github.com/siddhsql/06fef5fe42183cc0271f53be3b5d561a)
+full [log](https://gist.github.com/siddhsql/5c86cafe335285bcc2337d2b08815d26)
 
 ## Now run using `java`
 
